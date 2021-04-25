@@ -1,0 +1,7 @@
+{
+    "name": "ds",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "python manage.py runserver"
+    }
+}
